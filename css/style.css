@@ -4,12 +4,37 @@
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
+    list-style-type: none;
+    border: 2px solid black;
 }
 
 /*utilities*/
 :root{
+
 }
 
 .margin-bt{
     margin-bottom: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+
+/*header*/
+header{
+    background-color: rgb(44,62,80);
+}
+
+header .col{
+    padding: 10px;
+}
+
+.nav-bar{
+    margin-bottom: 0;
+}
+
+/*main*/
+.start-bootstrap{
+    min-height: 400px;
 }
