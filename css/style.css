@@ -5,12 +5,11 @@
     box-sizing: border-box;
     text-decoration: none;
     list-style-type: none;
-    border: 2px solid black;
 }
 
 /*utilities*/
-:root{
-
+.backg-green{
+    background-color: #1ABC9C;
 }
 
 .margin-bt{
@@ -37,4 +36,16 @@ header .col{
 /*main*/
 .start-bootstrap{
     min-height: 400px;
+}
+
+.icons{
+    font-size: 25px;
+}
+
+.color-bl{
+    color: #2C3E50;
+}
+
+.jumbotron-text{
+    font-size: 12px;
 }
