@@ -35,7 +35,6 @@ header .col{
 
 /*main*/
 .start-bootstrap{
-    min-height: 400px;
 }
 
 .icons{
@@ -48,4 +47,8 @@ header .col{
 
 .jumbotron-text{
     font-size: 12px;
+} 
+
+.avatar{
+    height: 250px;
 }
