@@ -7,6 +7,10 @@
     list-style-type: none;
 }
 
+body{
+    overflow-x: hidden;
+}
+
 /*utilities*/
 .backg-green{
     background-color: #1ABC9C;
